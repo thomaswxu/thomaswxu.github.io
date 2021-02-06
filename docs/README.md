@@ -11,9 +11,9 @@ This is the personal website of Thomas W. Xu.
 	* Graduation Date: May 2022
 	* Currently seeking full-time internship opportunities for Summer 2021.
 
-For more info about me, click [here](/about).
-For my current resume, click [here].
-
+For more info about me, click here.
+For my current resume, click here.
+ 
 <h3>Links to other media:</h3>
 	* [LinkedIn](https://linkedin.com/in/thomaswxu)
 	* [GitHub]https://www.github.com/thomaswxu)
