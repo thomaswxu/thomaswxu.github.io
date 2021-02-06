@@ -1,7 +1,3 @@
----
-title: test
----
-
 <title>Thomas W. Xu's Website</title>
 
 <h1>Welcome to my website.</h1>
