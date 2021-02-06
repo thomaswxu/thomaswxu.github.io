@@ -1,7 +1,8 @@
+---
 layout: page
 title: "About Me"
 permalink: "/about/"
-
+---
 
 <h1>About Me</h1>
 
