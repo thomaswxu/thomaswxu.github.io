@@ -1,7 +1,3 @@
----
-layout: default
-title: Homepage
----
 
 <h1>Welcome to my website.</h1>
 This is the personal website of Thomas W. Xu.
@@ -13,7 +9,7 @@ This is the personal website of Thomas W. Xu.
 
 For more info about me, click here.
 For my current resume, click here.
- 
+
 <h3>Links to other media:</h3>
 	* [LinkedIn](https://linkedin.com/in/thomaswxu)
 	* [GitHub]https://www.github.com/thomaswxu)
