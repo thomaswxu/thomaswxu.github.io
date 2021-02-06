@@ -11,7 +11,7 @@ I graduated with a B.S. in Mechanical Engineering (with a Specialization in Cont
 Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my MRSD project: Mobile Robot Image/Object Classification and Avoidance.
 
 <h1>Resume/CV</h1>
-Click [here](../files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
+Click [here](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
 
 
 Click [here](/) to go back.
