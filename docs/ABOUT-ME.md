@@ -13,7 +13,7 @@ permalink: "/about/"
 		<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true" alt="CMU logo" height="100"/>
 	</div>
 	<div class="column">
-		<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="60"/>
+		<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="55"/>
 	</div>
 </div>
 
