@@ -6,6 +6,7 @@ permalink: "/about/"
 
 <h1>About Me</h1>
 
+
 <h3>Education</h3>
 
 <!--
@@ -30,6 +31,8 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 
 
+
+
 <h3>Work Experience</h3>
 
 
@@ -48,8 +51,12 @@ In Summer 2018, I interned at Solar Turbines as a Packaging and Systems Intern. 
 Since 2019 I've also worked at the Bioinspired Robotics and Design Lab at The University of California, San Diego, where I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture). That work is currently pending publication.
 
 
+
 <h1>Resume/CV</h1>
 Click [here](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
+Please feel free to contact me at thomas.w.xu@gmail.com with any inquiries.
 
 
-Click [here](/) to go back.
+
+
+Click [here](/) to go back to the main page.
