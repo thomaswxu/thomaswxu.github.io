@@ -7,16 +7,19 @@ permalink: "/about/"
 <h1>About Me</h1>
 
 <h3>Education</h3>
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="100"/>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true" alt="CMU logo" height="100"/>
+<p>     </p>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="60"/>
 
 I graduated with a B.S. in Mechanical Engineering (with a Specialization in Controls and Robotics) from The University of California, San Diego in Spring 2020. I'm currently enrolled in the MRSD (Master of Science in Robotic Systems Development) program at Carnegie Mellon University; my expected graduation date is May 2022.
 
 Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my MRSD project: Mobile Robot Image/Object Classification and Avoidance.
 
 <h3>Work Experience</h3>
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/asml_logo.png?raw=true" alt="ASML logo" height="100"/>
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="300"/>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/asml_logo.png?raw=true" alt="ASML logo" height="60"/>
+<p>     </p>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="60"/>
+<p>     </p>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/brdl_logo.png?raw=true" alt="Bioinspired Robotics and Design Lab logo" height="100"/>
 
 I have completed two previous industry internships:
