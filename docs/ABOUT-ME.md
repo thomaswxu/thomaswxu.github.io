@@ -18,8 +18,10 @@ permalink: "/about/"
 	</div>
 </div>
 -->
-
-![](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true)  |  ![](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true)
+<p float="left">
+  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true" alt="CMU logo" height="100"/>
+  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="55"/>
+</p>
 
 I graduated with a B.S. in Mechanical Engineering (with a Specialization in Controls and Robotics) from The University of California, San Diego in Spring 2020. I'm currently enrolled in the MRSD (Master of Science in Robotic Systems Development) program at Carnegie Mellon University; my expected graduation date is May 2022.
 
