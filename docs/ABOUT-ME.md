@@ -53,7 +53,7 @@ Since 2019 I've also worked at the Bioinspired Robotics and Design Lab at The Un
 
 
 <h1>Resume/CV</h1>
-Click [here](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
+Click [here](../files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
 Please feel free to contact me at thomas.w.xu@gmail.com with any inquiries.
 
 
