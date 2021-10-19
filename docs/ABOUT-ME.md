@@ -40,16 +40,21 @@ I have completed two previous industry internships:
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/asml_logo.png?raw=true" alt="ASML logo" height="60"/>
 
-In Summer 2019, I interned at ASML as a Systems Integration Intern. There, I used Python, HTML, and TIBCO Spotfire to develop data analytics and visualization dashboards, which are used during team meetings to quickly gauge system performance and productivity.
+In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integration Intern. There, I used Python, HTML, and TIBCO Spotfire to develop data analytics and visualization dashboards, which are used during team meetings to quickly gauge system performance and productivity.
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="75"/>
 
-In Summer 2018, I interned at Solar Turbines as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines.
+In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines.
 
+
+<h3>Research</h3>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/brdl_logo.png?raw=true" alt="Bioinspired Robotics and Design Lab logo" height="100"/>
 
-Since 2019 I've also worked at the Bioinspired Robotics and Design Lab at The University of California, San Diego, where I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture). That work is currently pending publication.
+From 2019 to 2021 I've also worked at the [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/home) at The University of California, San Diego. While there, I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture).  
 
+The paper corresponding to this work:  
+>Sandoval J.A., **Xu T.**, Adibnazari I., Deheyn D. D., Tolley M. T., "Combining suction and friction to stabilize a soft gripper to shear and
+normal forces, for manipulation of soft objects in wet environments". IEEE Robotics and Automation Letters. Manuscript submitted for review.
 
 
 <h1>Resume/CV</h1>
