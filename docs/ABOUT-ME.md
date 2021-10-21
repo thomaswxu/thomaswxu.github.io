@@ -35,16 +35,24 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 <h3>Work Experience</h3>
 
+My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below(most recent first).
 
-I have completed two previous industry internships:
+<img src="../files/voaige_logo.png" alt="Voaige logo" height="80">
+
+Since February 2021, I have been working part time at [Voaige](https://www.voaige.com/), which is a new robotics startup spun out of Carnegie Mellon University. As one of the early team members, my main work has been integrating our code and software with all the physical robot arms we deploy on (arm models and requirements vary based on client/contract/etc.). This has mainly involved work with ROS, MoveIt, and Rviz, along with each arm's custom proprietary software tools.
+
+<img src="../files/botbuilt_logo.jpg" alt="BotBuilt logo" height="60">
+
+In Summer 2021, I interned at [BotBuilt](https://www.linkedin.com/company/botbuilt/about/), a recent robotics startup from Y Combinator based in North Carolina. BotBuilt uses robot arms for housing construction (e.g. to construct critical housing components like wall panels and floor trusses); as a Robotics Intern, my role included equal parts hardware and software while working with the robot arms. On the hardware side, I designed and tested a pneumatics-based mechanical clamping assembly, which would be used to hold components in place while the robot arm finishes assembling them. On the software side, I implemented scripts (ROS2, C++) for behavior planning of the robot, so that it could handle construction of arbitrarily-dimensioned wall panels and appropriately switch end-effectors during assembly as necessary.
+
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/asml_logo.png?raw=true" alt="ASML logo" height="60"/>
 
-In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integration Intern. There, I used Python, HTML, and TIBCO Spotfire to develop data analytics and visualization dashboards, which are used during team meetings to quickly gauge system performance and productivity.
+In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integration Intern. There, I used Python, HTML, and TIBCO Spotfire to develop data analytics and visualization dashboards, which are used during daily team meetings to quickly gauge system performance and productivity. I also developed a semi-autonomous key performance indicator (KPI) notification and tracking tool, which is used by company managers to quickly respond to any performance risks. 
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="75"/>
 
-In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines.
+In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines. This tool has led to annual savings of approximately $50,000 USD for the company, thanks to saved material costs and engineering hours.
 
 
 <h3>Research</h3>
