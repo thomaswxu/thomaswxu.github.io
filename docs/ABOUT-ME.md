@@ -37,11 +37,11 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below(most recent first).
 
-<img src="../files/voaige_logo.png" alt="Voaige logo" height="80">
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80">
 
 Since February 2021, I have been working part time at [Voaige](https://www.voaige.com/), which is a new robotics startup spun out of Carnegie Mellon University. As one of the early team members, my main work has been integrating our code and software with all the physical robot arms we deploy on (arm models and requirements vary based on client/contract/etc.). This has mainly involved work with ROS, MoveIt, and Rviz, along with each arm's custom proprietary software tools.
 
-<img src="../files/botbuilt_logo.jpg" alt="BotBuilt logo" height="60">
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/botbuilt_logo.jpg?raw=true" alt="BotBuilt logo" height="60">
 
 In Summer 2021, I interned at [BotBuilt](https://www.linkedin.com/company/botbuilt/about/), a recent robotics startup from Y Combinator based in North Carolina. BotBuilt uses robot arms for housing construction (e.g. to construct critical housing components like wall panels and floor trusses); as a Robotics Intern, my role included equal parts hardware and software while working with the robot arms. On the hardware side, I designed and tested a pneumatics-based mechanical clamping assembly, which would be used to hold components in place while the robot arm finishes assembling them. On the software side, I implemented scripts (ROS2, C++) for behavior planning of the robot, so that it could handle construction of arbitrarily-dimensioned wall panels and appropriately switch end-effectors during assembly as necessary.
 
@@ -66,7 +66,7 @@ normal forces, for manipulation of soft objects in wet environments". IEEE Robot
 
 
 <h1>Resume/CV</h1>
-Click [here](https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/Thomas_W_Xu_Resume.pdf) for a copy of my current resume.
+Click [here](https://drive.google.com/file/d/1QCU4agZeN6Dy4QsbanTNfE6jMK4iwK9J/view?usp=sharing) for a copy of my current resume.
 Please feel free to contact me at thomas.w.xu@gmail.com with any inquiries.
 
 
