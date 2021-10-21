@@ -35,7 +35,7 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 <h3>Work Experience</h3>
 
-My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below(most recent first).
+My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below (most recent first).
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80">
 
