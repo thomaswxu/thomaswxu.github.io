@@ -5,9 +5,15 @@ permalink: "/about/"
 ---
 
 <h1>About Me</h1>
+More info on my background and experience is listed here.
 
+On this page:  
+- Education
+- Work Experience
+- Research
+- Resume
 
-<h3>Education</h3>
+<h1>Education</h1>
 
 <!--
 <div class="row">
@@ -33,7 +39,7 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 
 
-<h3>Work Experience</h3>
+<h1>Work Experience</h1>
 
 My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below (most recent first).
 
@@ -55,7 +61,7 @@ In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integ
 In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines. This tool has led to annual savings of approximately $50,000 USD for the company, thanks to saved material costs and engineering hours.
 
 
-<h3>Research</h3>
+<h1>Research</h1>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/brdl_logo.png?raw=true" alt="Bioinspired Robotics and Design Lab logo" height="100"/>
 
 From 2019 to 2021 I've also worked at the [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/home) at The University of California, San Diego. While there, I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture).  
