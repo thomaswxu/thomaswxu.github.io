@@ -60,6 +60,27 @@ In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integ
 
 In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines. This tool has led to annual savings of approximately $50,000 USD for the company, thanks to saved material costs and engineering hours.
 
+<h2>Other Work</h2>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="50"/>
+<ul>
+	<li>Teaching Assistant at Carnegie Mellon University, Fall 2021</li>
+	<ul>
+		<li>Course: Robot Mobility (Robot Institute, Graduate-level)</li>
+		<li>Supported the Robot Mobility course, which covers fundamentals of wheeled, aerial, legged, and underwater mobility for robotics</li>
+		<li>Held weekly office hours, graded reports, provided guidance for assignments, etc.</li>
+	</ul>
+</ul>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="50"/>
+<ul>
+	<li>Engineering Tutor at University of California, San Diego, Fall 2018</li>
+	<ul>
+		<li>Course: Introduction to Engineering Graphics and Design (Jacobs School of Engineering)</li>
+		<li>Hosted weekly sessions of an undergraduate introductory robotics class</li>
+		<li>Clarified key theoretical concepts, taught CAD/CAM skills, oversaw student design studio</li>
+		<li>Facilitated and graded assignments (engineering drawings, formal reports, etc.)</li>
+	</ul>
+</ul>
+
 
 <h1>Research</h1>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/brdl_logo.png?raw=true" alt="Bioinspired Robotics and Design Lab logo" height="100"/>
