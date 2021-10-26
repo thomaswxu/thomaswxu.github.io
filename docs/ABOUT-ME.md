@@ -26,9 +26,9 @@ On this page:
 </div>
 -->
 <p float="left">
-  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true" alt="CMU logo" height="100"/>
+  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/cmu_logo.png?raw=true" alt="CMU logo" height="110"/>
   <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/spacer.png?raw=true" alt="spacer" width="10"/>
-  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="55"/>
+  <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="50"/>
 </p>
 
 I graduated with a B.S. in Mechanical Engineering (with a Specialization in Controls and Robotics) from The University of California, San Diego in Spring 2020. I'm currently enrolled in the MRSD (Master of Science in Robotic Systems Development) program at Carnegie Mellon University; my expected graduation date is May 2022.
@@ -61,7 +61,7 @@ In Summer 2019, I interned at [ASML](https://www.asml.com/en) as a Systems Integ
 In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) as a Packaging and Systems Intern. There, I used VBA to develop an autonomous Excel Tool that autonomously calculates the optimal configurations of package lift kits, which are used during the transportation and assembly process of turbines. This tool has led to annual savings of approximately $50,000 USD for the company, thanks to saved material costs and engineering hours.
 
 <h2>Other Work</h2>
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="50"/>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/RI_CMU_Logo_Large_2608x463.png?raw=true" alt="Solar Turbines logo" height="50"/>
 <ul>
 	<li>Teaching Assistant at Carnegie Mellon University, Fall 2021</li>
 	<ul>
@@ -70,7 +70,7 @@ In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) a
 		<li>Held weekly office hours, graded reports, provided guidance for assignments, etc.</li>
 	</ul>
 </ul>
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/solarTurbines_logo.png?raw=true" alt="Solar Turbines logo" height="50"/>
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSDLogo_JSOE_Blue.png?raw=true" alt="Solar Turbines logo" height="50"/>
 <ul>
 	<li>Engineering Tutor at University of California, San Diego, Fall 2018</li>
 	<ul>
