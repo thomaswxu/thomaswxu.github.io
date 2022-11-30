@@ -31,7 +31,9 @@ On this page:
   <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/UCSD_logo.png?raw=true" alt="UCSD logo" height="45"/>
 </p>
 
-I graduated with a B.S. in Mechanical Engineering (with a Specialization in Controls and Robotics) from The University of California, San Diego in Spring 2020. I'm currently enrolled in the MRSD (Master of Science in Robotic Systems Development) program at Carnegie Mellon University; my expected graduation date is May 2022.
+I graduated with a B.S. in Mechanical Engineering (with a Specialization in Controls and Robotics) from The University of California, San Diego in June 2020. 
+
+I graduated from the MRSD (Master of Science in Robotic Systems Development) program at Carnegie Mellon University (School of Computer Science) in May 2022.
 
 Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my MRSD project: Mobile Robot Image/Object Classification and Avoidance.
 
@@ -43,9 +45,10 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below (most recent first).
 
-<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80">
+<!-- <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80"> -->
+<img src="../files/voaige_logo.png" alt="Voaige logo" height="80">
 
-Since February 2021, I have been working part time at [Voaige](https://www.voaige.com/), which is a new robotics startup spun out of Carnegie Mellon University. As one of the early team members, my main work has been integrating our code and software with all the physical robot arms we deploy on (arm models and requirements vary based on client/contract/etc.). This has mainly involved work with ROS, MoveIt, and Rviz, along with each arm's custom proprietary software tools.
+From February 2021 to May 2022, I worked part time at [Voaige](https://www.voaige.com/), which is a new robotics startup spun out of Carnegie Mellon University. As one of the early team members, my main work was integrating our code and software with all the physical robot arms we deploy on (arm models and requirements vary based on client/contract/etc.). This mainly involved work with ROS, MoveIt, and Rviz, along with each arm's custom proprietary software tools.
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/botbuilt_logo.jpg?raw=true" alt="BotBuilt logo" height="60">
 
@@ -65,7 +68,7 @@ In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) a
 <ul>
 	<li>Teaching Assistant at Carnegie Mellon University, Fall 2021</li>
 	<ul>
-		<li>Course: Robot Mobility (Robot Institute, Graduate-level)</li>
+		<li>Course: Robot Mobility (Robotics Institute, Graduate-level)</li>
 		<li>Supported the Robot Mobility course, which covers fundamentals of wheeled, aerial, legged, and underwater mobility for robotics</li>
 		<li>Held weekly office hours, graded reports, provided guidance for assignments, etc.</li>
 	</ul>
@@ -85,7 +88,7 @@ In Summer 2018, I interned at [Solar Turbines](https://www.solarturbines.com/) a
 <h1>Research</h1>
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/brdl_logo.png?raw=true" alt="Bioinspired Robotics and Design Lab logo" height="100"/>
 
-From 2019 to 2021 I've also worked at the [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/home) at The University of California, San Diego. While there, I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture).  
+From 2019 to 2021 I worked at the [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/home) at The University of California, San Diego. While there, I assisted in the development of bioinspired gripping pads and fluidic elastomer actuators through force and material testing, physical prototype manufacture, and virtual prototype simulation using SOFA (Simulation Open Framework Architecture).  
 
 The paper corresponding to this work:  
 >Sandoval J.A., **Xu T.**, Adibnazari I., Deheyn D. D., Tolley M. T., "Combining suction and friction to stabilize a soft gripper to shear and
