@@ -43,9 +43,13 @@ Click [here](https://mrsdprojects.ri.cmu.edu/2021teamd/) for information on my M
 
 <h1>Work Experience</h1>
 
-My work experience so far has consisted of various internships, either in Robotics or Engineering. Details for each internship are listed below (most recent first).
+I have had various work experiences in Robotics and Engineering. Details for each experience are listed below (most recent first).
 
-<!-- Needs the github logo instead of a relative filepath to show up properly online, for some reason. -->
+<!-- Needs the github link instead of a relative filepath to show up properly online, for some reason. -->
+<img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/finish_robotics_logo.png?raw=true" alt="Finish Robotics logo" height="80">
+
+From July 2022, I have been a full-time Robotics Engineer at Finish Robotics. I work on various components of our robotic system, including arm manipulation and vision capabilities.
+
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80">
 
 From February 2021 to May 2022, I worked part time at [Voaige](https://www.voaige.com/), which is a new robotics startup spun out of Carnegie Mellon University. As one of the early team members, my main work was integrating our code and software with all the physical robot arms we deploy on (arm models and requirements vary based on client/contract/etc.). This mainly involved work with ROS, MoveIt, and Rviz, along with each arm's custom proprietary software tools.
@@ -92,9 +96,9 @@ From 2019 to 2021 I worked at the [Bioinspired Robotics and Design Lab](https://
 
 The paper corresponding to this work:  
 >Sandoval J.A., **Xu T.**, Adibnazari I., Deheyn D. D., Tolley M. T., "Combining suction and friction to stabilize a soft gripper to shear and
-normal forces, for manipulation of soft objects in wet environments".
+normal forces, for manipulation of soft objects in wet environments". IEEE Robotics and Automation Letters 7 (2), 4134-4141.
 
-_(Published in IEEE Robotics and Automation Letters. Also accepted to 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft).)_
+_(Also accepted to 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft).)_
 
 
 <h1>Resume/CV</h1>
