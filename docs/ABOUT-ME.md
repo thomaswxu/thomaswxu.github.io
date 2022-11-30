@@ -48,7 +48,7 @@ I have had various work experiences in Robotics and Engineering. Details for eac
 <!-- Needs the github link instead of a relative filepath to show up properly online, for some reason. -->
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/finish_robotics_logo_black_text.png?raw=true" alt="Finish Robotics logo" height="120">
 
-From July 2022, I have been a full-time Robotics Engineer at Finish Robotics. I work on various components of our robotic system, including arm manipulation and vision capabilities.
+From July 2022, I have been a full-time Robotics Engineer at [Finish Robotics](https://www.finishbot.com/). I work on various components of our robotic system, including arm manipulation and vision capabilities.
 
 <img src="https://github.com/thomaswxu/thomaswxu.github.io/blob/master/files/voaige_logo.png?raw=true" alt="Voaige logo" height="80">
 
